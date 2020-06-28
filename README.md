@@ -1,10 +1,10 @@
-# Running your scripts after command prompt starts everytime
+# Running your scripts after command prompt starts everytime(Only For Windows cause i'm a noob)
 
 Clone the repository in your local system by using
 ```sh
 git clone https://github.com/EvoltPratom/humble_cmd.git
 ```
-Or for windows users without git installed, 
+Or for users without git installed, 
 
 Enter Powershell
 ```powershell
