@@ -2,13 +2,13 @@
 
 Clone the repository in your local system by using
 ```sh
-git clone repo
+git clone https://github.com/EvoltPratom/humble_cmd.git
 ```
 Or for windows users without git installed, 
 
 Enter Powershell
 ```sh
-wget -o dir_name.zip https://github.com/EvoltPratom/humble_cmd/edit/master.zip
+wget -o dir_name.zip https://github.com/EvoltPratom/humble_cmd/archive/master.zip
 Expand-Archive dir_name.zip -DestinationPath dir_name
 cd dir_name
 ```
