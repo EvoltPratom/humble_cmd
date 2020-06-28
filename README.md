@@ -13,7 +13,7 @@ Expand-Archive dir_name.zip -DestinationPath dir_name
 cd dir_name
 ```
 
-```sh
+```python
 python -r requirements.py
 python main.py
 ```
