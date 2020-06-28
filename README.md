@@ -14,7 +14,7 @@ cd dir_name
 ```
 
 ```python
-python -r requirements.py
+python -r requirements.txt
 python main.py
 ```
 This executes the helper.py file everytime command prompt is launched
