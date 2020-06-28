@@ -14,7 +14,10 @@ cd dir_name
 ```
 
 ```sh
+python -r requirements.py
 python main.py
 ```
 This executes the helper.py file everytime command prompt is launched
 You can change the contents of helper.py to execute what ever you want instead
+
+Initially the helper.py file contains a small script to show you a new word and new quote everyday to make your day maybe just a little better
