@@ -21,3 +21,8 @@ This executes the helper.py file everytime command prompt is launched
 You can change the contents of helper.py to execute what ever you want instead
 
 Initially the helper.py file contains a small script to show you a new word and new quote everyday to make your day maybe just a little better
+
+If you want the feature removed run uninstall.py as
+```sh
+python uninstall.py
+```
