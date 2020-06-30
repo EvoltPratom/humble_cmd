@@ -10,7 +10,7 @@ Enter Powershell
 ```powershell
 wget -o dir_name.zip https://github.com/EvoltPratom/humble_cmd/archive/master.zip
 Expand-Archive dir_name.zip -DestinationPath dir_name
-cd dir_name
+cd dir_name\humble_cmd-master
 ```
 
 ```python
