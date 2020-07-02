@@ -14,7 +14,6 @@ cd dir_name\humble_cmd-master
 ```
 
 ```python
-python -r requirements.txt
 python main.py
 ```
 This executes the helper.py file everytime command prompt is launched

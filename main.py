@@ -1,3 +1,5 @@
+import os
+os.system("pip install -r requirements.txt")
 from winreg import*
 import os
 cur_dir = os.getcwd()
@@ -11,4 +13,3 @@ a = OpenKey(HKEY_CURRENT_USER,
 SetValueEx(a, "Autorun", 0, REG_SZ, execute)
 # DeleteValue(a, 'Autorun')
 CloseKey(a)
-#test from repl to see if data gets stored
